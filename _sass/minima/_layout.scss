@@ -125,13 +125,14 @@
  */
 .site-footer {
   border-top: 1px solid #9900cc;
-  background: #9900cc; 
+  background: #9900cc;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, Times, "Times New Roman", serif; 
   @include relative-font-size(1.125);
+  color: #ffffff; 
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -144,13 +145,14 @@
 .footer-col-wrapper {
   font-family: Georgia, Times, "Times New Roman", serif;
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: #ffffff;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
 
 .footer-col {
   font-family: Georgia, Times, "Times New Roman", serif;
+  color: #ffffff;
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
