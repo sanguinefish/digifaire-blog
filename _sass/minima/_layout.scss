@@ -290,7 +290,8 @@
     a {
       display: block;
       padding: $spacing-unit / 4;
-      border: 1px solid $brand-color-light
+      border: 1px solid $brand-color-dark; 
+      background: #ffffff;   
     }
     &:hover .svg-icon { fill: currentColor; }
   }
