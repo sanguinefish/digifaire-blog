@@ -180,11 +180,13 @@
   }
 
   .footer-col-2 {
+    color: #ffffff;
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
+    color: #ffffff;
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
   }
@@ -192,6 +194,7 @@
 
 @media screen and (min-width: $on-medium) {
   .footer-col {
+    color: #ffffff;
     float: left;
   }
 }
