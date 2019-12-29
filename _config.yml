@@ -4,7 +4,7 @@ email: support@digifaire.com
 description: > # this means to ignore newlines until "show_excerpts:"
 As professional technical services experts, crafting solutions brings us joy. From cloud computing applications to engaging the audience, we are happy to build elegant tools and techniques to enhance the value chain.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
