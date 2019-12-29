@@ -35,7 +35,7 @@
   top: 9px;
   right: $spacing-unit / 2;
   background-color: $background-color;
-  border: 1px solid $brand-color-light;
+  border: 1px solid #9900cc;
   border-radius: 5px;
   text-align: right;
 
@@ -161,17 +161,20 @@
 
 .footer-col-1,
 .footer-col-2 {
+  color: #ffffff;
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
+  color: #ffffff;
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
 @media screen and (min-width: $on-large) {
   .footer-col-1 {
+    color: #ffffff;
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
   }
