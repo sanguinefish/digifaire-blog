@@ -1,12 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Create | Discover | Inspire
+author: Digifaire
+email: support@digifaire.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+As professional technical services experts, crafting solutions brings us joy. From cloud computing applications to engaging the audience, we are happy to build elegant tools and techniques to enhance the value chain.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,29 +13,29 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: digifaire
+    github:  digifaire
     rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+    # dribbble: digifaire
+    # facebook: simplyfluff
+    # flickr:   digifaire
+    # instagram: digifaire
+    # linkedin: digifaire
+    # pinterest: digifaire
+    # youtube: digifaire
+    # youtube_channel: 
+    # youtube_channel_name: 
+    # telegram:
+    # googleplus: 
+    # microdotblog: 
+    # keybase: 
 
     # Mastodon instances
     # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+    # - username: 
+    #   instance: 
+    # - username: 
+    #   instance:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
