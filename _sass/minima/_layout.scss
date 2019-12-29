@@ -128,6 +128,7 @@
 }
 
 .footer-heading {
+  font-family: Georgia, Times, "Times New Roman", serif;
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
 }
@@ -139,6 +140,7 @@
 }
 
 .footer-col-wrapper {
+  font-family: Georgia, Times, "Times New Roman", serif;
   @include relative-font-size(0.9375);
   color: $brand-color;
   margin-left: -$spacing-unit / 2;
@@ -146,6 +148,7 @@
 }
 
 .footer-col {
+  font-family: Georgia, Times, "Times New Roman", serif;
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
   margin-bottom: $spacing-unit / 2;
