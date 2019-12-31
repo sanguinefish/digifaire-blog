@@ -6,12 +6,12 @@ categories: [blog, stories]
 tags: [lifestyle, news, introspection]
 ---
 
-Getting pensive on the final day of the year is how a pro would sign off, right? Especially because, during the whole year, I did not pursue a single goal with gusto. No conviction, whatsoever; this is so not typical of me. Like skating backward, I simply floated around watching the world go by. Luckily, I still caught a few wonderful memories for the Year of 2019 album. 
+Getting pensive on the final day of the year is how a pro would sign off, right? Especially because, during the whole year, I didn't pursue a single goal with gusto. No conviction, whatsoever; this is so not typical of me. Like skating backward, I simply floated around watching the world go by. Luckily, I still caught a few wonderful memories for the Year of 2019 album. 
 
 Earlier in the year, I enjoyed a conversation with Cinthya, a University of Toronto doctoral student, who's investigating emotions; daily routines, boredom, and more. It was a sheer delight; to meet someone, in a long time,  who's familiar with the work of Mihaly Csikszentmihalyi. Not a dull moment! Since the Finding Flow worldview is heading into oblivion, I pray she writes a follow-through thesis.
 
 A theme keeps popping up, "authentic." A subtle reminder by the Universe—the journey home gets murkier with imitation.   
 
-As I head into the final sixteen hours; the remaining particles of sand in the upper section of the hourglass are a stark reminder of the limits of natural phenomena. Final thoughts? The introspection is making me queasy because I've shirked at being the other half of the natural order. It's not fooling anyone; however, I'm just giving the monks a f****** bad name. So, as a last-moment hack, I'm serenading Vinyl by William Michael Morgan for the rest of the day. Ha! Good luck with ensnaring a lioness, in the new year, eh?
+As I head into the final sixteen hours; the remaining particles of sand in the upper section of the hourglass are a stark reminder of the limits of natural phenomena. Final thoughts? The introspection is making me queasy because I've shirked at being the other half of the natural order. It's not fooling anyone; however, I'm just giving the monks a f*$%&#@ bad name. So, as a last-moment hack, I'm serenading Vinyl by William Michael Morgan for the rest of the day. Ha! Good luck with ensnaring a lioness, in the new year, eh?
 
 Happy New Year! 
