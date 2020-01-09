@@ -6,6 +6,7 @@ categories: [blog, grant]
 tags: [business, grant writing]
 ---
 Grant season has started. The agencies are flush with cash and looking to sponsor thoughtful projects. Winning a grant is a process; however, and nothing short of a diligent effort will pay off. Follow these seven steps to win a grant for your organization this year.  
+
 1) Know the Sponsor Organization
 
 2) Write for the Sponsor
