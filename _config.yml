@@ -51,7 +51,8 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
 
-  paginate: 3
+ pagination:  
+  per_page: 3
   paginate_path: "/blog/page:num/"
   
   #pagination:
