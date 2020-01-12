@@ -52,7 +52,7 @@ plugins:
  - jekyll-paginate
 
 exclude:
-  - Gemfile
+  #- Gemfile
   - Gemfile.lock
 
   paginate: 1
