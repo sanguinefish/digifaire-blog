@@ -56,11 +56,11 @@ gems:
 pagination:
   enabled: true
   per_page: 3
-  permalink: '/page/:num/'
-  title_suffix: ' - page :num'
-  limit: 0
+  #permalink: '/page/:num/'
+  #title_suffix: ' - page :num'
+  #limit: 0
   sort_field: 'date'
   sort_reverse: true
   
   # Produces a cleaner folder structure when using categories
-permalink: /:year/:month/:title.html
+  #permalink: /:year/:month/:title.html
