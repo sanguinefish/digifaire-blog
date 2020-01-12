@@ -47,13 +47,13 @@ minima:
 theme: minima
 
 plugins:
- #- jekyll-feed
+ - jekyll-feed
  - jekyll-seo-tag
- - jekyll-paginate
+ #- jekyll-paginate
 
- pagination:  
-  per_page: 3
-  paginate_path: "/blog/page:num/"
+ #pagination:  
+ # per_page: 3
+ # paginate_path: "/blog/page:num/"
   
   #pagination:
   #enabled: true
