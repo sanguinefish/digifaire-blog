@@ -54,7 +54,7 @@ plugins:
 gems: 
  - jekyll-paginate
 
-  per_page: 2
+  paginate: 10
   paginate_path: "/page:num/"
  #pagination:  
  # per_page: 3
