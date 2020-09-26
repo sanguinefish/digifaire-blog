@@ -14,14 +14,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    #twitter: digifaire
+    # twitter: digifaire
     github:  digifaire
-    rss: rss
+    # rss: rss
     # dribbble: digifaire
     facebook: simplyfluff
     # flickr:   digifaire
     instagram: digifaire
-    #linkedin: digifaire
+    linkedin: raj-digifaire
     # pinterest: digifaire
     # youtube: digifaire
     # youtube_channel: 
