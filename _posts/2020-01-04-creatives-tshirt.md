@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Creatives Rule"
-author: Raju Basumatary
 categories: [blog, design]
 tags: [merch]
 ---
