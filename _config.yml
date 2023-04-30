@@ -3,7 +3,7 @@ masthead: /assets/my_masthead.jpg
 author: Create | Discover | Inspire
 email: support @ digifaire.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Digifaire Stack for the Digital Ecosystem 
+  Digifaire Stack Apps
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
